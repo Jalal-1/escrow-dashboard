@@ -29,7 +29,7 @@ const Header: React.FC = (): React.ReactElement => (
           <Box display="flex" alignItems="center">
             <img src={humanLogo} alt="logo" />
             <Typography variant="h6" color="primary" ml="10px">
-              Scan
+              Scanner
             </Typography>
           </Box>
           <Box display="flex" alignItems="center" ml="auto">
